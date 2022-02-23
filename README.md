@@ -1,2 +1,3 @@
-# landing-page
-Landing Page with HTML, CSS and JavaScript
+# - Página de Inicio hecha en HTML, CSS y JavaScript -
+
+# Hecha por Sidney Silva
